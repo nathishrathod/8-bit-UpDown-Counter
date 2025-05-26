@@ -22,7 +22,7 @@ Simulation was carried out using EDA Playground (Icarus Verilog). The waveform c
 
 ## Waveform Output
 
-![Waveform](content://media/external/downloads/130673)
+![Waveform](https://github.com/nathishrathod/8-bit-UpDown-Counter/blob/main/Screenshot_20250527-013618_Chrome.jpg)
 
 ## How to Run
 
