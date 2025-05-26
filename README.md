@@ -38,7 +38,3 @@ Simulation was carried out using EDA Playground (Icarus Verilog). The waveform c
 ## Author
 
 [Nathish Rathod](https://github.com/nathishrathod)
-
----
-
-Feel free to fork or clone the repo and try it yourself!
